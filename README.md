@@ -1,7 +1,7 @@
 # 🔐 Secure Multiplayer Quiz System
 
 A real-time, terminal-based multiplayer quiz application using **secure SSL/TLS communication** between a Java server and Python clients.
-
+with Swing GUi
 This project demonstrates:
 
 * Network programming
